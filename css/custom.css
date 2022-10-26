@@ -1,0 +1,71 @@
+.row {background-color:rgba(254, 250, 244, 0.918);}
+
+.logo img { width: 100%
+}
+
+.nav-link {border:1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+color: black;
+font-style: none;
+background-color: antiquewhite;}
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+}
+.a-block {
+height: 200px;
+width: 100%;
+margin: 5px;}
+.SideBlock1 {
+margin: 10px 5px 15px 5px;
+background-color: antiquewhite;}
+
+.SideBlock2 {
+    margin: 10px 5px 15px 5px;
+    background-color: antiquewhite;
+}
+
+.sezonas{font-style: none;
+color: black;}
+
+.b-block {
+    height: 200px;
+    width: 100%;
+margin: 5px;}
+.c-block {
+    margin: 5px;
+    width: 100%;
+}
+.MainBlock1 {
+    height: 200px;
+    
+    width: 100%;
+    margin: 5px;
+    
+}
+.MainBlock2 {
+    height: 200px;
+   
+    margin: 5px;
+    width: 100%;
+}
+
+
+.g-block {
+    height: 200px;
+    width: 100%;
+margin: 5px;}
+.h-block {
+    height: 200px;
+    width: 100%;
+margin: 5px;}
+.icons1{
+    margin: 10px 5px 15px 5px;
+}
+.j-block {
+    height: 200px;
+    width: 100%;
+margin: 5px;}
+
+.btn-primary {margin-top: 10px;}
