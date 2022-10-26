@@ -51,7 +51,6 @@ margin: 5px;}
     width: 100%;
 }
 
-
 .g-block {
     height: 200px;
     width: 100%;
@@ -69,3 +68,9 @@ margin: 5px;}
 margin: 5px;}
 
 .btn-primary {margin-top: 10px;}
+textarea.form-control {
+    min-height: calc(1.5em + 0.75rem + 2px);
+    margin-bottom: 5px;
+    width: 100%;
+}
+.list-group {margin-left: 100px;}
